@@ -20,7 +20,7 @@ const Main = () => {
                     </p>
                     <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 easy-in duration-300'>
-                            <a href="https://github.com/haksiu" target="_blank"><FaGithub /></a>
+                            <a href="https://github.com/haksiu" target="_blank" rel="noreferrer"><FaGithub /></a>
                         </div>
                         <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 easy-in duration-300'>
                             <FaDiscord />
