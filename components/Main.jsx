@@ -1,6 +1,7 @@
 import React from "react"
 import {FaGithub, FaDiscord} from "react-icons/fa"
 import {AiOutlineMail} from "react-icons/ai"
+import Link from "next/link"
 
 const Main = () => {
   return (
@@ -23,7 +24,7 @@ const Main = () => {
                             <a href="https://github.com/haksiu" target="_blank" rel="noreferrer"><FaGithub /></a>
                         </div>
                         <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 easy-in duration-300">
-                            <FaDiscord />
+                              <a href="https://discord.gg/hQKyBfh4Ca" target="_blank" rel="noreferrer"><FaDiscord /> </a>
                         </div>
                         <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 easy-in duration-300">
                             <AiOutlineMail />
