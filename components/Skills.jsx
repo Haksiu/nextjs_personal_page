@@ -11,7 +11,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/html.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/html.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>HTML</h3>
@@ -21,7 +21,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/css.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/css.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>CSS</h3>
@@ -31,7 +31,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/javascript.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/javascript.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>JavaScript</h3>
@@ -41,7 +41,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/java.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/java.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>Java</h3>
@@ -51,7 +51,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/node.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/node.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>NodeJS</h3>
@@ -61,7 +61,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 easy-in duration-300">
                 <div className="grid grid-cols-2 gap-4 justify-center items-center">
                     <div className="m-auto">
-                        <Image src="/../public/assets/php.png" width="64px" height="64px"  alt="/" />
+                        <Image unoptimized={true} src="/../public/assets/php.png" width="64px" height="64px"  alt="/" />
                     </div>
                     <div className="flex flex-col items-center justify-center">
                         <h3>PHP</h3>
