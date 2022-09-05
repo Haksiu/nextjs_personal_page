@@ -24,8 +24,7 @@ useEffect(() => {
 
   return (
     <div className={shadow ? "fixed w-full h-20 shadow-xl z-[100] bg-[#dfe2e6]" : "fixed w-full h-20 z-[100] bg-[#dfe2e6]"}>
-        <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
-          LOGO PLACEHOLDER
+        <div className="flex justify-end items-center w-full h-full px-2 2xl:px-16">
           <div>
               <ul className="hidden md:flex">
                 <Link href="/">
