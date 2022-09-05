@@ -51,8 +51,7 @@ useEffect(() => {
           <div className={nav ? "md:hidden fixed left-0 top-0 w-[75%] sm:w-[60%] md:w-[45%] h-screen bg-[#edeff2] p-10 easy-in duration-500" : 
         "fixed left-[-100%] top-0 p-10 easy-in duration-500"}>
             <div>
-              <div className="flex justify-between items-center w-full">
-                  LOGO PLACEHOLDER
+              <div className="flex justify-end items-center w-full">
                   <div onClick={handleNav} className="rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer">
                     <AiOutlineClose />
                   </div>
