@@ -13,10 +13,10 @@ const Main = () => {
                     Hi, I&apos;m <span className="text-[#37b25a]">Haksiu</span>
                     </h1>
                     <h1 className="py-2 text-gray-800">
-                        A Beginner Full-Stack Developer
+                        A Beginner Front-End Developer
                     </h1>
                     <p className="py-4 text-gray-400 max-w-[70%] m-auto">
-                        I&apos;m beginner full-stack developer, streamer, content creator, begginer vfx artist, beginner logo designer, film maker.
+                        I&apos;m beginner front-end developer, streamer and content creator.
                         Currently, I&apos;m focused on building full-stack web applications but I am still learning this.
                     </p>
                     <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
